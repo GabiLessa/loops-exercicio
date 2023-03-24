@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Fatorial/Fatorial.iml" filepath="$PROJECT_DIR$/Fatorial/Fatorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaiorMedia/MaiorMedia.iml" filepath="$PROJECT_DIR$/MaiorMedia/MaiorMedia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NomeIdade/NomeIdade.iml" filepath="$PROJECT_DIR$/NomeIdade/NomeIdade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Nota/Nota.iml" filepath="$PROJECT_DIR$/Nota/Nota.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ParImpar/ParImpar.iml" filepath="$PROJECT_DIR$/ParImpar/ParImpar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tabuada/Tabuada.iml" filepath="$PROJECT_DIR$/Tabuada/Tabuada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/loops-exercicio.iml" filepath="$PROJECT_DIR$/.idea/loops-exercicio.iml" />
+    </modules>
+  </component>
+</project>
